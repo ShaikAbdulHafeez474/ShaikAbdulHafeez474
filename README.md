@@ -30,20 +30,20 @@
 
 ## 🐍 **3D Contribution Snake**
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/ShaikAbdulHafeez474/ShaikAbdulHafeez474/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ## 🔗 **Connect with Me**
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="https://linkedin.com/in/hafeezshk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ethicalhacker.75696@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="[https://your-portfolio-link.com](https://github.com/ShaikAbdulHafeez474)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
 </p>
