@@ -39,15 +39,16 @@
 ## 🔗 **Connect with Me**
 <p align="center">
   <a href="https://linkedin.com/in/hafeezshk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="mailto:ethicalhacker.75696@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" />
   </a>
-  <a href="[https://your-portfolio-link.com](https://github.com/ShaikAbdulHafeez474)">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" />
+  <a href="https://github.com/ShaikAbdulHafeez474">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" />
   </a>
 </p>
+
 
 ---
 
