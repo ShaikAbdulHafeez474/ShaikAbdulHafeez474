@@ -28,10 +28,11 @@
 
 ---
 
-## 🐍 **3D Contribution Snake**
+## 🚀 **My Projects**
 <p align="center">
-  <img src="https://github.com/ShaikAbdulHafeez474/ShaikAbdulHafeez474/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=ff5733&width=700&height=60&lines=TubeTutor+-+LangChain%2C+LLama3%2C+Streamlit%2C+Python;Smart+CCTV+Surveillance+-+CNN%2C+LSTM%2C+PyTorch%2C+OpenCV;AutoText+Predictor+-+C%2B%2B%2C+Tries%2C+Hash+Map;SafeSpeak+-+NodeJS%2C+ExpressJS%2C+PostgreSQL%2C+NLP%2C+ReactJS;ResumeCraft+AI+-+JavaScript%2C+OpenAI;Image+Finder+-+ReactJS%2C+Pixabay+API" alt="Project Typing Animation">
 </p>
+
 
 ---
 
