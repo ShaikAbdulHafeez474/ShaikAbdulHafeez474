@@ -104,16 +104,9 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:92FE9D,100:00C9FF&height=5" width="100%">
-
----
-
-## ✨ **Fun Fact**
-> “Code is like humor. When you have to explain it, it’s bad.”
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:FF6EC7&height=200&section=footer)
 </p>
-
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:FF6EC7&height=200&section=footer)
+
