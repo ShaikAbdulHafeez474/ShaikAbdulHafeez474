@@ -28,24 +28,30 @@
 </p>
 
 <details>
-  <summary><b><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-frontend-web-development-flaticons-lineal-color-flat-icons.png" width="50" alt="Frontend"/>
- FrontEnd Development</b></summary>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,swift,react" />
+  <summary><b>🎨 FrontEnd Development</b></summary>
+  <p align="center"><img src="https://skillicons.dev/icons?i=react,css,html,tailwind,vite,streamlit" />
+ <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,swift,react" />
   </p>
 </details>
 
 <details>
-  <summary><b>🌏 Backend Development</b></summary>
+  <summary><b>🛠️ Backend Development</b></summary>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,openlayers" />
+   <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,typescript,python" />
   </p>
 </details>
 
 <details>
-  <summary><b>🌏 Artificial Intelligence and Machine Learning</b></summary>
+  <summary><b>🗄️ Databases</b></summary>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=postgres,openlayers" />
+   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🤖 Artificial Intelligence and Machine Learning</b></summary>
+  <p align="center">
+   <img src="https://skillicons.dev/icons?i=pytorch,opencv,python" />
   </p>
 </details>
 
