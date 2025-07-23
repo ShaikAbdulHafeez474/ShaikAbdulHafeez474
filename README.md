@@ -1,9 +1,12 @@
 <!-- HEADER -->
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Shaik%20Abdul%20Hafeez&fontSize=60&animation=twinkling&fontAlignY=40&fontColor=ffffff)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5D4&size=26&center=true&vCenter=true&width=650&lines=Final+Year+NIT+Bhopal+Student;AI+%26+Full+Stack+Developer;Open+Source+Contributor;Lifelong+Learner" />
-</p>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C7B7&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student+at+NIT+Bhopal;AI+%26+Full+Stack+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" />
+
+</div>
 
 ---
 
