@@ -105,8 +105,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:92FE9D,100:00C9FF&height=5" width="100%">
 <p align="center">
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:FF6EC7&height=200&section=footer)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:FF6EC7&height=200&section=footer" />
 </p>
+
 ---
 
 
