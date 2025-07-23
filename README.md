@@ -71,7 +71,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikAbdulHafeez474&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/ShaikAbdulHafeez474/ShaikAbdulHafeez474/output/snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:92FE9D,100:00C9FF&height=5" width="100%">
 
