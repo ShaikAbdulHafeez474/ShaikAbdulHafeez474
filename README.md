@@ -70,6 +70,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikAbdulHafeez474&theme=react-dark&hide_border=true&area=true" />
 </p>
+## 🐍 **My Contributions**
+> Watch my contributions grow as the snake eats them below:
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/ShaikAbdulHafeez474/ShaikAbdulHafeez474/output/snake.svg)
 
