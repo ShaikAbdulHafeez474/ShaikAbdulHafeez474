@@ -65,14 +65,13 @@
 ## 🚀 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaikAbdulHafeez474&show_icons=true&theme=radical&bg_color=0,000000,130F40&title_color=00F5D4&icon_color=FFD700&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaikAbdulHafeez474&theme=radical&hide_border=true&ring=79ff97&fire=ff0000&currStreakLabel=79ff97" height="180"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaikAbdulHafeez474&theme=react-dark&hide_border=true&area=true" />
 </p>
 
-![snake gif](https://github.com/ShaikAbdulHafeez474/ShaikAbdulHafeez474/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:92FE9D,100:00C9FF&height=5" width="100%">
 
