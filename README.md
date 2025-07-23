@@ -15,10 +15,10 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
 </p>
 
--     Final Year Computer Science student at **NIT Bhopal**.  
--     Passionate about **AI/ML, Full Stack Development, and Open Source**.  
--     Building innovative projects using **C++, JS, Python, PyTorch, LangChain, Node.js, and React**.  
--     Currently exploring **system design, advanced AI models, and scalable backend systems**.
+- 🎓 Final Year Computer Science student at **NIT Bhopal**.  
+- 🔥 Passionate about **AI/ML, Full Stack Development, and Open Source**.  
+- 💡 Building innovative projects using **C++, JS, Python, PyTorch, LangChain, Node.js, and React**.  
+- 🌱 Currently exploring **system design, advanced AI models, and scalable backend systems**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:92FE9D,100:00C9FF&height=5" width="100%">
 
@@ -62,7 +62,7 @@
 
 ---
 
-##  **GitHub Stats**
+## 🚀 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShaikAbdulHafeez474&show_icons=true&theme=radical&bg_color=0,000000,130F40&title_color=00F5D4&icon_color=FFD700&hide_border=true" height="180"/>
 </p>
@@ -77,7 +77,7 @@
 
 ---
 
-##  **Projects**
+## 🚀 **Projects**
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=000000&width=700&height=60&lines=TubeTutor+-+LangChain%2C+LLama3%2C+Streamlit%2C+Python;Smart+CCTV+Surveillance+-+CNN%2C+LSTM%2C+PyTorch%2C+OpenCV;AutoText+Predictor+-+C%2B%2B%2C+Tries%2C+Hash+Map;SafeSpeak+-+NodeJS%2C+ExpressJS%2C+PostgreSQL%2C+NLP%2C+ReactJS;ResumeCraft+AI+-+JavaScript%2C+OpenAI;Image+Finder+-+ReactJS%2C+Pixabay+API" />
 </p>
