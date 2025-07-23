@@ -28,14 +28,22 @@
 </p>
 
 <details>
-  <summary><b>📱 Mobile Development</b></summary>
+  <summary><b><img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-frontend-web-development-flaticons-lineal-color-flat-icons.png" width="50" alt="Frontend"/>
+ FrontEnd Development</b></summary>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,swift,react" />
   </p>
 </details>
 
 <details>
-  <summary><b>🌏 Geographic Information Systems</b></summary>
+  <summary><b>🌏 Backend Development</b></summary>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=postgres,openlayers" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🌏 Artificial Intelligence and Machine Learning</b></summary>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=postgres,openlayers" />
   </p>
