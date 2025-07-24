@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👋%20Welcome%20to%20my%20GitHub%20—%20Glad%20to%20have%20you%20here!&fontSize=40&animation=twinkling&fontAlignY=40&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👋%20Welcome%20to%20my%20GitHub%20—%20Glad%20to%20have%20you%20here!&fontSize=30&animation=twinkling&fontAlignY=40&fontColor=000000)
 
 
 <!-- Typing Animation -->
