@@ -1,7 +1,8 @@
 <!-- HEADER -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Shaik%20Abdul%20Hafeez&fontSize=60&animation=twinkling&fontAlignY=40&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👋%20Welcome%20to%20my%20GitHub%20—%20Glad%20to%20have%20you%20here!&fontSize=40&animation=twinkling&fontAlignY=40&fontColor=000000)
+
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FFD700&center=true&vCenter=true&width=600&lines=Final+Year+CSE+Student+at+NIT+Bhopal;AI+%26+Full+Stack+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" />
