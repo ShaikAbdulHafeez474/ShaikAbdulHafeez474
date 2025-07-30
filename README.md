@@ -114,9 +114,6 @@
   <a href="https://www.geeksforgeeks.org/user/your-username" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
   </a>
-  <a href="https://codeforces.com/profile/your-username" target="_blank">
-    <img src="https://sta.codeforces.com/s/28599/images/favicon-96x96.png" alt="Codeforces" width="48" height="48"/>
-  </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:92FE9D,100:00C9FF&height=5" width="100%">
