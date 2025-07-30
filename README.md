@@ -83,13 +83,20 @@
 ---
 
 ## 🚀 **Projects**
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=3B82F6&center=true&vCenter=true&width=900&height=60&lines=TubeTutor+-+LangChain%2C+LLama3%2C+Streamlit%2C+Python;Smart+CCTV+Surveillance+-+CNN%2C+LSTM%2C+PyTorch%2C+OpenCV;AutoText+Predictor+-+C%2B%2B%2C+Tries%2C+Hash+Map;SafeSpeak+-+NodeJS%2C+ExpressJS%2C+PostgreSQL%2C+NLP%2C+ReactJS;ResumeCraft+AI+-+JavaScript%2C+OpenAI;Image+Finder+-+ReactJS%2C+Pixabay+API;Movie+Recommendation+System+-+Python%2C+JupyterNotebook%2C+Pandas%2C+NumPy;AlgoStructure+-+ReactJS%2C+ExpressJS%2C+Tailwind+CSS%2C+Trees%2C+Graphs%2C+DP;Task+Master+Pro+-+TypeScript%2C+PostgreSQL%2C+ExpressJS%2C+Tailwind+CSS&speed=60&backSpeed=30&backDelay=3000" />
-</p>
+<h2 align="center">✨ Featured Projects</h2>
 
+| 🚀 **Project**         | 🛠️ **Stack Used**                                        |
+|------------------------|-----------------------------------------------------------|
+| 📺 **TubeTutor**       | *LangChain*, *LLama3*, *Streamlit*, *Python*              |
+| 📹 **CCTV AI**         | *CNN*, *LSTM*, *PyTorch*, *OpenCV*                        |
+| ⌨️ **AutoText**        | *C++*, *Tries*, *Hash Map*                                |
+| 🔒 **SafeSpeak**       | *NodeJS*, *ExpressJS*, *PostgreSQL*, *NLP*, *ReactJS*     |
+| 📄 **ResumeCraft AI**  | *JavaScript*, *OpenAI API*                                |
+| 🖼️ **Image Finder**    | *ReactJS*, *Pixabay API*                                  |
+| 🎥 **Movie Recommender** | *Python*, *Pandas*, *NumPy*                            |
+| 📊 **AlgoStructure**   | *ReactJS*, *Tailwind CSS*, *Trees*, *Graphs*, *DP*        |
+| ✅ **Task Master Pro** | *TypeScript*, *PostgreSQL*, *ExpressJS*, *Tailwind CSS*   |
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:92FE9D,100:00C9FF&height=5" width="100%">
 
 ---
 
