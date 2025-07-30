@@ -108,10 +108,10 @@
   <a href="mailto:ethicalhacker.75696@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" />
   </a>
-  <a href="https://leetcode.com/your-username" target="_blank">
+  <a href="https://leetcode.com/u/hafeezshaik474/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/your-username" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/hafeezshhmtb/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
   </a>
 </p>
