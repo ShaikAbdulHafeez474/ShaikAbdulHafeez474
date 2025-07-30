@@ -115,7 +115,7 @@
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
   </a>
   <a href="https://codeforces.com/profile/your-username" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-platform-logo-color-tal-revivo.png" alt="Codeforces" />
+    <img src="https://sta.codeforces.com/s/28599/images/favicon-96x96.png" alt="Codeforces" width="48" height="48"/>
   </a>
 </p>
 
@@ -124,6 +124,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:FF6EC7&height=200&section=footer" />
 </p>
+
 
 
 ---
