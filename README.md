@@ -108,15 +108,23 @@
   <a href="mailto:ethicalhacker.75696@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" />
   </a>
-  <a href="https://github.com/ShaikAbdulHafeez474">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Portfolio" />
+  <a href="https://leetcode.com/your-username" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/your-username" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://codeforces.com/profile/your-username" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeforces-programming-competitions-and-contests-programming-platform-logo-color-tal-revivo.png" alt="Codeforces" />
   </a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:92FE9D,100:00C9FF&height=5" width="100%">
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:FF6EC7&height=200&section=footer" />
 </p>
+
 
 ---
 
