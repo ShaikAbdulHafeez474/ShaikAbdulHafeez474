@@ -28,13 +28,13 @@
 ##  **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,nodejs,express,react,tailwind,mongodb,postgres,mysql,docker,git,aws" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,nodejs,express,react,tailwind,mongodb,postgres,mysql,git" />
 </p>
 
 <details>
   <summary><b>🎨 FrontEnd Development</b></summary>
   <p align="center"><img src="https://skillicons.dev/icons?i=react,css,html,tailwind,vite,streamlit" />
- <img src="https://skillicons.dev/icons?i=android,kotlin,flutter,swift,react" />
+
   </p>
 </details>
 
