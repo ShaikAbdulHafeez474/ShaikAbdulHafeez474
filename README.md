@@ -33,7 +33,7 @@
 
 <details>
   <summary><b>🎨 FrontEnd Development</b></summary>
-  <p align="center"><img src="https://skillicons.dev/icons?i=react,css,html,tailwind,vite,streamlit" />
+  <p align="center"><img src="https://skillicons.dev/icons?i=javascript,react,css,html,tailwind,vite,streamlit" />
 
   </p>
 </details>
@@ -41,7 +41,7 @@
 <details>
   <summary><b>🛠️ Backend Development</b></summary>
   <p align="center">
-   <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,typescript,python" />
+   <img src="https://skillicons.dev/icons?i=nodejs,express,typescript,python" />
   </p>
 </details>
 
@@ -65,7 +65,9 @@
 
 ## 🚀 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaikAbdulHafeez474&show_icons=true&theme=radical&bg_color=0,000000,130F40&title_color=00F5D4&icon_color=FFD700&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaikAbdulHafeez474&show_icons=true&theme=radical&bg_color=0,000000,130F40&title_color=00F5D4&icon_color=FFD700&hide_border=true" height="280"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikAbdulHafeez474&layout=compact&theme=radical&bg_color=0,000000,130F40&title_color=00F5D4&hide_border=true" height="280"/>
 </p>
 
 <p align="center">
