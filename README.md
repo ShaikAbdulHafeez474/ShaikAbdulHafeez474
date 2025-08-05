@@ -12,9 +12,9 @@
 ---
 
 ##  **About Me**
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
-</p>
+
+[![3D Animation Preview](assets/animation-preview.gif)](https://shaikabdulhafeez474.github.io/3D-Animation/)
+
 
 - 🎓 Final Year Computer Science student at **NIT Bhopal**.  
 - 🔥 Passionate about **AI/ML, Full Stack Development, and Open Source**.  
