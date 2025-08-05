@@ -13,13 +13,23 @@
 
 ##  **About Me**
 
-[![3D Animation Preview](assets/animation-preview.gif)](https://shaikabdulhafeez474.github.io/3D-Animation/)
+<table>
+  <tr>
+    <td>
 
+- 🎓 Final Year Computer Science student at <strong>NIT Bhopal</strong>.<br>
+- 🔥 Passionate about <strong>AI/ML, Full Stack Development, and Open Source</strong>.<br>
+- 💡 Building innovative projects using <strong>C++, JS, Python, PyTorch, LangChain, Node.js, and React</strong>.<br>
+- 🌱 Currently exploring <strong>system design, advanced AI models, and scalable backend systems</strong>.
 
-- 🎓 Final Year Computer Science student at **NIT Bhopal**.  
-- 🔥 Passionate about **AI/ML, Full Stack Development, and Open Source**.  
-- 💡 Building innovative projects using **C++, JS, Python, PyTorch, LangChain, Node.js, and React**.  
-- 🌱 Currently exploring **system design, advanced AI models, and scalable backend systems**.
+    </td>
+    <td align="center">
+      <a href="https://shaikabdulhafeez474.github.io/3D-Animation/">
+        <img src="assets1/animation.gif" width="250px" alt="3D Animation Preview">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:92FE9D,100:00C9FF&height=5" width="100%">
 
@@ -84,23 +94,6 @@
 
 ---
 
-## 🚀 **Projects**
-<h2 align="center">✨ Featured Projects</h2>
-
-| 🚀 **Project**         | 🛠️ **Stack Used**                                        |
-|------------------------|-----------------------------------------------------------|
-| 📺 **TubeTutor**       | *LangChain*, *LLama3*, *Streamlit*, *Python*              |
-| 📹 **CCTV AI**         | *CNN*, *LSTM*, *PyTorch*, *OpenCV*                        |
-| ⌨️ **AutoText**        | *C++*, *Tries*, *Hash Map*                                |
-| 🔒 **SafeSpeak**       | *NodeJS*, *ExpressJS*, *PostgreSQL*, *NLP*, *ReactJS*     |
-| 📄 **ResumeCraft AI**  | *JavaScript*, *OpenAI API*                                |
-| 🖼️ **Image Finder**    | *ReactJS*, *Pixabay API*                                  |
-| 🎥 **Movie Recommender** | *Python*, *Pandas*, *NumPy*                            |
-| 📊 **AlgoStructure**   | *ReactJS*, *Tailwind CSS*, *Trees*, *Graphs*, *DP*        |
-| ✅ **Task Master Pro** | *TypeScript*, *PostgreSQL*, *ExpressJS*, *Tailwind CSS*   |
-
-
----
 
 ## 🔗 **Connect with Me**
 <p align="center">
