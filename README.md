@@ -100,13 +100,13 @@
   <a href="https://linkedin.com/in/hafeezshk" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="mailto:ethicalhacker.75696@gmail.com">
+  <a href="mailto:ethicalhacker.756@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" />
   </a>
-  <a href="https://leetcode.com/u/hafeezshaik474/" target="_blank">
+  <a href="https://leetcode.com/u/haaik474/" target="_blank">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/hafeezshhmtb/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/hhhmtb/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" />
   </a>
 </p>
